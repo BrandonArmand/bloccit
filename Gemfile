@@ -14,6 +14,7 @@
  
  group :development do
    gem 'sqlite3'
+   gem 'pry-rails'
  end
  
  gem 'puma', '~> 3.0'
