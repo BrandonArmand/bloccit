@@ -1,3 +1,10 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 @import "welcome";
+@import "users";
+
+ .gravatar {
+   margin-bottom: 5px;
+   margin-top: 5px;
+   float: right;
+ }
