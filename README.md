@@ -1,8 +1,16 @@
- ## Bloccit: a Reddit replica to teach me the fundamentals of web development and Rails.
+# Bloccit: A Reddit replica to teach me the fundamentals of web development and Ruby on Rails.
  
-### users can 
-* create topics
-* make posts within the topics
-* submit comments in the posts
-* upvote / downvote posts to decide what makes it to the top of the topic's front page
-* favorite posts to get updates via email on the posts
+## Features
+* User Authentication
+* Create topics
+* Make posts within the topics
+* Submit comments in the posts
+* Upvote / downvote posts to decide what makes it to the top of the topic's front page
+* Favorite posts to get updates via email on the posts
+
+## Technoloiges
+* Ruby on Rails
+* RSpec
+* SQL
+* JavaScript
+* HTML/CSS
